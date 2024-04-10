@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    padding: 0;
 }
 
 .flag {
@@ -8,8 +9,8 @@
 }
 
 table {
-    width: 800px;
-    height: 456px;
+    width: 2000px;
+    height: 950px;
 }
 
 table, td {
