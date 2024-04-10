@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+}
+
+.flag {
+    justify-content: center;
+    border: 1px solid black;
+}
+
+table {
+    width: 800px;
+    height: 456px;
+}
+
+table, td {
+    border: solid 0px;
+    border-collapse: collapse;
+}
+
+tr:nth-child(odd) {
+    background: red;
+}
+
+tr:nth-child(even) {
+    background: white;
+}
+
+img {
+    position: absolute;
+    margin-top: 0px;
+}
