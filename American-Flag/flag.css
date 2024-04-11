@@ -10,7 +10,7 @@
 
 table {
     width: 2000px;
-    height: 950px;
+    height: 963px;
 }
 
 table, td {
@@ -19,7 +19,7 @@ table, td {
 }
 
 tr:nth-child(odd) {
-    background: red;
+    background: #D01110;
 }
 
 tr:nth-child(even) {
