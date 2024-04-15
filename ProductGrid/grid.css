@@ -1,0 +1,17 @@
+body {
+    background-color: #C3E0E5;;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: 100;
+}
+.halfbaked {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+h2 {
+    font-size: 15px;
+    font-weight: 200;
+}
